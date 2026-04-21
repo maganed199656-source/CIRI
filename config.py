@@ -1,6 +1,6 @@
 import os
 
-BOT_TOKEN = os.getenv("BOT_TOKEN", "8487130667:AAEHwXYo_JWDLayIWG2Je-cP_9_oX-cBDhI")
+BOT_TOKEN = os.getenv("BOT_TOKEN", "8487130667:AAFzBQUdU0oi0CwuEsQD2enR5mJksXE4VQw")
 BOT_NAME = "KinoloveUzBot"
 ADMINS = [int(x) for x in os.getenv("ADMINS", "5714788187").split(",")]
 MOVIE_CHANNEL = int(os.getenv("MOVIE_CHANNEL", "-1003924104096"))
